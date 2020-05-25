@@ -17,7 +17,7 @@ permalink: /posts/:title/
 texture: blue
   title: Project Electoral Recall.
   tagline: Let's Bin Boris.
-  date_format: "%-d %-m %Y"
+  date_format: "%b %-d, %Y"
   style: black
   showNav: false
   showPicker: false
