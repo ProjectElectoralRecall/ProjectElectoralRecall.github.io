@@ -15,8 +15,8 @@ sass:
 
 permalink: /posts/:title/
 texture: blue
-  title: Project Electoral Recall.
-  tagline: Let's Bin Boris.
+  title: Project Electoral Recall
+  tagline: Let's Bin Boris
   date_format: "%b %-d, %Y"
   style: black
   showNav: false
