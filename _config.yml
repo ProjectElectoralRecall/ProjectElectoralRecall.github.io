@@ -1,4 +1,4 @@
-title: Texture Theme
+title: Project Electoral Recall
 author: GitHub User
 email: your-email@domain.com
 description: > # this means to ignore newlines until "show_exerpts:"
@@ -17,7 +17,7 @@ sass:
 permalink: /posts/:title/
 texture:
   title: Project Electoral Recall.
-  tagline: We Deserve a Better Government.
+  tagline: 
   date_format: "%b %-d, %Y"
   style: blue
   showNav: false
