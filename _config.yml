@@ -16,8 +16,8 @@ sass:
 
 permalink: /posts/:title/
 texture:
-  title: Project Electoral Recall
-  tagline: Developer. Designer
+  title: Project Electoral Recall.
+  tagline: We Deserve a Better Government.
   date_format: "%b %-d, %Y"
   style: blue
   showNav: false
